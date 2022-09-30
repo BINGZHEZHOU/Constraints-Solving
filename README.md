@@ -1,5 +1,5 @@
 # Constraints-Solving
-Paper list of Constraint Solving
+Paper list for Constraint Solving
 
 ## DPLL
 **A computing Procedure for Quantification Theory**
