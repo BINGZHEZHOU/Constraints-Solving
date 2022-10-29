@@ -38,3 +38,54 @@ Paper list for Constraint Solving
 
 **Detecting floating-point errors via atomic conditions**
 - link: <https://dl.acm.org/doi/abs/10.1145/3371128>
+
+
+# Symbolic Execution
+
+## Overview
+** 1976 Symbolic Execution and Program Testing **
+
+** KLEE: unassisted and automatic generation of high-coverage tests for complex systems programs **
+- link: <https://dl.acm.org/doi/10.5555/1855741.1855756>
+
+** 2010 All You Ever Wanted to Know about Dynamic Taint Analysis and Forward Symbolic Execution (but Might Have Been Afraid to Ask)
+
+** 2013 Symbolic Execution for Software Testing: Three Decades Later
+
+** 2016 On the Techniques We Create, the Tools We Build, and Their Misalignments: A Study of KLEE
+
+** 2018 A Survey of Symbolic Execution Techniques
+
+## Path Exploration
+
+* 2021 SyML: Guiding Symbolic Execution Toward Vulnerable States Through Pattern Learning
+- link: <SyML](https://github.com/ucsb-seclab/syml>
+
+* 2021 Learning to Explore Paths for Symbolic Execution
+- link:<LEARCH](https://github.com/eth-sri/learch>
+
+* 2021 Metrinome: Path Complexity Predicts Symbolic Execution Path Explosion
+- link: <https://github.com/hmc-alpaqa/metrinome>
+
+* 2021 TracerX: Dynamic Symbolic Execution with Interpolation
+- link:<https://github.com/tracer-x/tracer-x.github.io>
+
+## Constraint Solving
+* 2019 Enhancing Symbolic Execution by Machine Learning Based Solver Selection ([PCC](https://github.com/csienslab-PCC/PathConstraintClassifier))
+
+* 2019 Constraints in Dynamic Symbolic Execution: Bitvectors or Integers? ([Data](https://srg.doc.ic.ac.uk/projects/klee-z3-int-vs-bv/artifact.html))
+
+* 2019 Just Fuzz It Solving Floating-Point Constraints using Coverage-Guided Fuzzing ([JFS](https://github.com/mc-imperial/jfs))
+
+* 2020 Pending Constraints in Symbolic Execution for Better Exploration and Seeding ([Pending](https://srg.doc.ic.ac.uk/projects/pending-constraints/artifact.html))
+
+* 2020 Multiplex Symbolic Execution Exploring Multiple Paths by Solving Once
+
+* 2021 Type and Interval Aware Array Constraint Solving for Symbolic Execution
+
+* 2021 Synthesize Solving Strategy for Symbolic Execution
+
+* 2021 Boosting Symbolic Execution via Constraint Solving Time Prediction ([SMTimer](https://github.com/Artisan-Lab/SMTimer))
+
+* 2021 Address-Aware Query Caching for Symbolic Execution ([KLEE-aaqc](https://github.com/davidtr1037/klee-aaqc))
+
