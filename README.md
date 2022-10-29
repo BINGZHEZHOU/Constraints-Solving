@@ -87,7 +87,7 @@ Paper list for Constraint Solving
 - link: <https://ieeexplore.ieee.org/document/9286103>
 
 **Type and Interval Aware Array Constraint Solving for Symbolic Execution**
--link: <https://dl.acm.org/doi/10.1145/3460319.3464826>
+- link: <https://dl.acm.org/doi/10.1145/3460319.3464826>
 
 **Synthesize Solving Strategy for Symbolic Execution**
 - link: <https://dl.acm.org/doi/abs/10.1145/3460319.3464815>
