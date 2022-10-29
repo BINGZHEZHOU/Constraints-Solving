@@ -43,49 +43,58 @@ Paper list for Constraint Solving
 # Symbolic Execution
 
 ## Overview
-** 1976 Symbolic Execution and Program Testing **
+**Symbolic Execution and Program Testing**
 
-** KLEE: unassisted and automatic generation of high-coverage tests for complex systems programs **
+**KLEE: unassisted and automatic generation of high-coverage tests for complex systems programs **
 - link: <https://dl.acm.org/doi/10.5555/1855741.1855756>
 
-** 2010 All You Ever Wanted to Know about Dynamic Taint Analysis and Forward Symbolic Execution (but Might Have Been Afraid to Ask)
+**All You Ever Wanted to Know about Dynamic Taint Analysis and Forward Symbolic Execution (but Might Have Been Afraid to Ask)**
 
-** 2013 Symbolic Execution for Software Testing: Three Decades Later
+**Symbolic Execution for Software Testing: Three Decades Later**
 
-** 2016 On the Techniques We Create, the Tools We Build, and Their Misalignments: A Study of KLEE
+**On the Techniques We Create, the Tools We Build, and Their Misalignments: A Study of KLEE**
 
-** 2018 A Survey of Symbolic Execution Techniques
+**A Survey of Symbolic Execution Techniques**
 
 ## Path Exploration
 
-* 2021 SyML: Guiding Symbolic Execution Toward Vulnerable States Through Pattern Learning
+**SyML: Guiding Symbolic Execution Toward Vulnerable States Through Pattern Learning**
 - link: <SyML](https://github.com/ucsb-seclab/syml>
 
-* 2021 Learning to Explore Paths for Symbolic Execution
+**Learning to Explore Paths for Symbolic Execution**
 - link:<LEARCH](https://github.com/eth-sri/learch>
 
-* 2021 Metrinome: Path Complexity Predicts Symbolic Execution Path Explosion
+**Metrinome: Path Complexity Predicts Symbolic Execution Path Explosion**
 - link: <https://github.com/hmc-alpaqa/metrinome>
 
-* 2021 TracerX: Dynamic Symbolic Execution with Interpolation
+**TracerX: Dynamic Symbolic Execution with Interpolation**
 - link:<https://github.com/tracer-x/tracer-x.github.io>
 
 ## Constraint Solving
-* 2019 Enhancing Symbolic Execution by Machine Learning Based Solver Selection ([PCC](https://github.com/csienslab-PCC/PathConstraintClassifier))
+**Enhancing Symbolic Execution by Machine Learning Based Solver Selection**
+- link:<https://github.com/csienslab-PCC/PathConstraintClassifier>
 
-* 2019 Constraints in Dynamic Symbolic Execution: Bitvectors or Integers? ([Data](https://srg.doc.ic.ac.uk/projects/klee-z3-int-vs-bv/artifact.html))
+**Constraints in Dynamic Symbolic Execution: Bitvectors or Integers?**
+- link:<https://srg.doc.ic.ac.uk/projects/klee-z3-int-vs-bv/artifact.html>
 
-* 2019 Just Fuzz It Solving Floating-Point Constraints using Coverage-Guided Fuzzing ([JFS](https://github.com/mc-imperial/jfs))
+**Just Fuzz It Solving Floating-Point Constraints using Coverage-Guided Fuzzing**
+- link:<https://github.com/mc-imperial/jfs>
 
-* 2020 Pending Constraints in Symbolic Execution for Better Exploration and Seeding ([Pending](https://srg.doc.ic.ac.uk/projects/pending-constraints/artifact.html))
+**Pending Constraints in Symbolic Execution for Better Exploration and Seeding**
+- link:<https://srg.doc.ic.ac.uk/projects/pending-constraints/artifact.html>
 
-* 2020 Multiplex Symbolic Execution Exploring Multiple Paths by Solving Once
+**Multiplex Symbolic Execution Exploring Multiple Paths by Solving Once**
+- link: <https://ieeexplore.ieee.org/document/9286103>
 
-* 2021 Type and Interval Aware Array Constraint Solving for Symbolic Execution
+**Type and Interval Aware Array Constraint Solving for Symbolic Execution**
+-link: <https://dl.acm.org/doi/10.1145/3460319.3464826>
 
-* 2021 Synthesize Solving Strategy for Symbolic Execution
+**Synthesize Solving Strategy for Symbolic Execution**
+- link: <https://dl.acm.org/doi/abs/10.1145/3460319.3464815>
 
-* 2021 Boosting Symbolic Execution via Constraint Solving Time Prediction ([SMTimer](https://github.com/Artisan-Lab/SMTimer))
+**Boosting Symbolic Execution via Constraint Solving Time Prediction**
+- link: <https://github.com/Artisan-Lab/SMTimer>
 
-* 2021 Address-Aware Query Caching for Symbolic Execution ([KLEE-aaqc](https://github.com/davidtr1037/klee-aaqc))
+**Address-Aware Query Caching for Symbolic Execution**
+- link: https://github.com/davidtr1037/klee-aaqc>
 
