@@ -59,10 +59,10 @@ Paper list for Constraint Solving
 ## Path Exploration
 
 **SyML: Guiding Symbolic Execution Toward Vulnerable States Through Pattern Learning**
-- link: <SyML](https://github.com/ucsb-seclab/syml>
+- link: <https://github.com/ucsb-seclab/syml>
 
 **Learning to Explore Paths for Symbolic Execution**
-- link:<LEARCH](https://github.com/eth-sri/learch>
+- link:<https://github.com/eth-sri/learch>
 
 **Metrinome: Path Complexity Predicts Symbolic Execution Path Explosion**
 - link: <https://github.com/hmc-alpaqa/metrinome>
