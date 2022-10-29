@@ -45,7 +45,7 @@ Paper list for Constraint Solving
 ## Overview
 **Symbolic Execution and Program Testing**
 
-**KLEE: unassisted and automatic generation of high-coverage tests for complex systems programs **
+**KLEE: unassisted and automatic generation of high-coverage tests for complex systems programs**
 - link: <https://dl.acm.org/doi/10.5555/1855741.1855756>
 
 **All You Ever Wanted to Know about Dynamic Taint Analysis and Forward Symbolic Execution (but Might Have Been Afraid to Ask)**
