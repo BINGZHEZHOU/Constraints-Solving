@@ -44,17 +44,22 @@ Paper list for Constraint Solving
 
 ## Overview
 **Symbolic Execution and Program Testing**
+- link: <https://dl.acm.org/doi/10.1145/360248.360252>
 
 **KLEE: unassisted and automatic generation of high-coverage tests for complex systems programs**
 - link: <https://dl.acm.org/doi/10.5555/1855741.1855756>
 
 **All You Ever Wanted to Know about Dynamic Taint Analysis and Forward Symbolic Execution (but Might Have Been Afraid to Ask)**
+- link: <https://ieeexplore.ieee.org/document/5504796?reload=true>
 
 **Symbolic Execution for Software Testing: Three Decades Later**
+- link: <https://doi.org/10.1145/2408776.2408795>
 
 **On the Techniques We Create, the Tools We Build, and Their Misalignments: A Study of KLEE**
+- link: <https://ieeexplore.ieee.org/document/7886898>
 
 **A Survey of Symbolic Execution Techniques**
+- link: <https://dl.acm.org/doi/10.1145/3182657>
 
 ## Path Exploration
 
@@ -62,7 +67,7 @@ Paper list for Constraint Solving
 - link: <https://github.com/ucsb-seclab/syml>
 
 **Learning to Explore Paths for Symbolic Execution**
-- link:<https://github.com/eth-sri/learch>
+- link: <https://dl.acm.org/doi/10.1145/3460120.3484813>
 
 **Metrinome: Path Complexity Predicts Symbolic Execution Path Explosion**
 - link: <https://github.com/hmc-alpaqa/metrinome>
